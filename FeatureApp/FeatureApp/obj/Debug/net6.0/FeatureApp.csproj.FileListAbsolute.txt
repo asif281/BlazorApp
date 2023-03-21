@@ -1,3 +1,4 @@
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\AKSoftware.Localization.MultiLanguages.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.13.mz549ijgd6.js
@@ -198,10 +199,12 @@ D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debu
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\YamlDotNet.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\AKSoftware.Localization.MultiLanguages.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
@@ -358,6 +361,7 @@ D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debu
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\YamlDotNet.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
@@ -400,6 +404,7 @@ D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debu
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\FeatureApp.staticwebassets.runtime.json
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\FeatureApp.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\FeatureApp.pdb
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\AKSoftware.Localization.MultiLanguages.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -423,6 +428,7 @@ D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debu
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.JSInterop.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\YamlDotNet.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.CSharp.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\bin\Debug\net6.0\Microsoft.VisualBasic.dll
@@ -602,6 +608,7 @@ D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debu
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\FeatureApp.AssemblyInfo.cs
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\FeatureApp.csproj.CoreCompileInputs.cache
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\FeatureApp.MvcApplicationPartsAssemblyInfo.cache
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\+p0Xyjdo.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\f2c1HcIs.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\dcCvOcMF.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\cmkfQp7V.gz
@@ -625,6 +632,7 @@ D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debu
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\U1VqhQxe.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\ElgNpCbC.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\5TkbTJOh.gz
+D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\tVIXrYMl.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\mCpSzDM8.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\BZfW+Hzt.gz
 D:\A.S Pro Data\Pro Data\Configure Data\BlazorApp\FeatureApp\FeatureApp\obj\Debug\net6.0\build-gz\uToZEhIu.gz

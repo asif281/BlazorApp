@@ -1,0 +1,20 @@
+﻿@*
+@page "/"
+@inject ILanguageContainerService languageContainer
+
+<PageTitle>Index</PageTitle>
+
+<h1>@languageContainer.Keys["HelloWorld"]</h1>
+
+@languageContainer.Keys["WelcomeMessage"]
+<button @onclick="ChangeToFrench">Set French</button>
+
+@code
+{
+
+	void ChangeToFrench()
+	{
+		languageContainer.SetLanguage(System.Globalization.CultureInfo.GetCultureInfo("fr-FR"));
+	}
+	
+}*@

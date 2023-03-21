@@ -7,8 +7,67 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\af-ZA.yml" />
+    <None Remove="Resources\bg-BG.yml" />
+    <None Remove="Resources\en-US.yml" />
+    <None Remove="Resources\es-AR.yml" />
+    <None Remove="Resources\es-PY.yml" />
+    <None Remove="Resources\fr-BE.yml" />
+    <None Remove="Resources\fr-FR.yml" />
+    <None Remove="Resources\ja-JP.yml" />
+    <None Remove="Resources\ko-KR.yml" />
+    <None Remove="Resources\pt-PT.yml" />
+    <None Remove="Resources\ru-RU.yml" />
+    <None Remove="Resources\sv-FI.yml" />
+    <None Remove="Resources\tr-TR.yml" />
+    <None Remove="Resources\zh-TW.yml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AKSoftware.Localization.MultiLanguages" Version="5.9.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.11" PrivateAssets="all" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\af-ZA.yml" />
+    <EmbeddedResource Include="Resources\bg-BG.yml" />
+    <EmbeddedResource Include="Resources\en-US.yml" />
+    <EmbeddedResource Include="Resources\es-AR.yml" />
+    <EmbeddedResource Include="Resources\es-PY.yml" />
+    <EmbeddedResource Include="Resources\fr-BE.yml" />
+    <EmbeddedResource Include="Resources\fr-FR.yml" />
+    <EmbeddedResource Include="Resources\ja-JP.yml" />
+    <EmbeddedResource Include="Resources\ko-KR.yml" />
+    <EmbeddedResource Include="Resources\pt-PT.yml" />
+    <EmbeddedResource Include="Resources\ru-RU.yml" />
+    <EmbeddedResource Include="Resources\sv-FI.yml" />
+    <EmbeddedResource Include="Resources\tr-TR.yml" />
+    <EmbeddedResource Include="Resources\zh-TW.yml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\.DS_Store" />
+    <None Include="wwwroot\assets\js\main.js" />
+    <None Include="wwwroot\assets\js\scrollreveal.min.js" />
+    <None Include="wwwroot\assets\js\swiper-bundle.min.js" />
+    <None Include="wwwroot\assets\scss\base\_base.scss" />
+    <None Include="wwwroot\assets\scss\components\_about.scss" />
+    <None Include="wwwroot\assets\scss\components\_breakpoints.scss" />
+    <None Include="wwwroot\assets\scss\components\_buttons.scss" />
+    <None Include="wwwroot\assets\scss\components\_category.scss" />
+    <None Include="wwwroot\assets\scss\components\_discount.scss" />
+    <None Include="wwwroot\assets\scss\components\_footer.scss" />
+    <None Include="wwwroot\assets\scss\components\_header.scss" />
+    <None Include="wwwroot\assets\scss\components\_home.scss" />
+    <None Include="wwwroot\assets\scss\components\_new.scss" />
+    <None Include="wwwroot\assets\scss\components\_newsletter.scss" />
+    <None Include="wwwroot\assets\scss\components\_scroll.scss" />
+    <None Include="wwwroot\assets\scss\components\_trick.scss" />
+    <None Include="wwwroot\assets\scss\config\_variables.scss" />
+    <None Include="wwwroot\assets\scss\layout\_layout.scss" />
+    <None Include="wwwroot\assets\scss\styles.scss" />
+    <None Include="wwwroot\assets\scss\theme\_theme.scss" />
   </ItemGroup>
 
 </Project>

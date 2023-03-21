@@ -13,6 +13,198 @@
       "PackagePath": "staticwebassets\\FeatureApp.styles.css"
     },
     {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\.DS_Store"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\about-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\category1-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category1-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\category2-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category2-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\category3-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category3-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\discount-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\discount-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\footer1-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer1-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\footer2-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer2-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\home1-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\home2-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\home3-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home3-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\nav-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\nav-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\new1-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new1-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\new2-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new2-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\new3-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new3-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\new4-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new4-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\new5-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new5-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\new6-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new6-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\trick-treat1-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\trick-treat1-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\trick-treat2-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\trick-treat2-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\trick-treat3-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\trick-treat3-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\trick-treat4-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\trick-treat4-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\trick-treat5-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\trick-treat5-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\img\\trick-treat6-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\trick-treat6-img.png"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_about.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_category.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_category.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_discount.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_discount.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_header.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_home.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_home.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_new.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_new.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_newsletter.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_scroll.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_scroll.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\components\\_trick.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_trick.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\config\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\config\\_variables.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_layout.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\styles.scss"
+    },
+    {
+      "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\assets\\scss\\theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_theme.scss"
+    },
+    {
       "Id": "D:\\A.S Pro Data\\Pro Data\\Configure Data\\BlazorApp\\FeatureApp\\FeatureApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
