@@ -1,4 +1,5 @@
 ﻿@page "/"
+@using System.Globalization;
 @inject ILanguageContainerService languageContainer
 
      <!--==================== HEADER ====================-->
@@ -36,7 +37,12 @@
 
             <img src="assets/img/nav-img.png" alt="" class="nav__img">
         </div>
-        <button @onclick="ChangeToFrench">Set French</button>
+        <select @onclick="() => OnDropdownClick(SelectedValue)" @bind="@SelectedValue">
+            @foreach (var culture in cultures)
+            {
+                <option value="@culture">@culture.DisplayName</option>
+            }
+        </select>
         <div class="nav__toggle" id="nav-toggle">
             <i class='bx bx-grid-alt'></i>
            
@@ -467,7 +473,7 @@
 </footer>
 
 
-    @code{
+@code{
     [Inject]
     public IJSRuntime JSRuntime { get; set; }
     protected override async Task OnInitializedAsync()
@@ -476,10 +482,17 @@
     }
     public async Task ShowAlertWindow()
     {
-      await JSRuntime.InvokeVoidAsync("ShowAlertWindow");
+        await JSRuntime.InvokeVoidAsync("ShowAlertWindow");
     }
-    void ChangeToFrench()
+    public string SelectedValue { get; set; } = "en-US";
+    CultureInfo[] cultures = new[]
     {
-        languageContainer.SetLanguage(System.Globalization.CultureInfo.GetCultureInfo("fr-FR"));
+            new CultureInfo("en-US"),
+            new CultureInfo("fr-FR")
+    };
+
+    public void OnDropdownClick(string selectedValue)
+    {
+        languageContainer.SetLanguage(System.Globalization.CultureInfo.GetCultureInfo(selectedValue));
     }
   }
