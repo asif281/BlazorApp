@@ -17,6 +17,19 @@
           "lib/netstandard2.0/AKSoftware.Localization.MultiLanguages.dll": {}
         }
       },
+      "AKSoftware.Localization.MultiLanguages.Blazor/1.5.0": {
+        "type": "package",
+        "dependencies": {
+          "AKSoftware.Localization.MultiLanguages": "5.8.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/AKSoftware.Localization.MultiLanguages.Blazor.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/AKSoftware.Localization.MultiLanguages.Blazor.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/6.0.11": {
         "type": "package",
         "dependencies": {
@@ -566,6 +579,19 @@
           "lib/netstandard2.0/AKSoftware.Localization.MultiLanguages.dll": {}
         }
       },
+      "AKSoftware.Localization.MultiLanguages.Blazor/1.5.0": {
+        "type": "package",
+        "dependencies": {
+          "AKSoftware.Localization.MultiLanguages": "5.8.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/AKSoftware.Localization.MultiLanguages.Blazor.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/AKSoftware.Localization.MultiLanguages.Blazor.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/6.0.11": {
         "type": "package",
         "dependencies": {
@@ -1108,6 +1134,20 @@
         "aksoftware.localization.multilanguages.5.9.1.nupkg.sha512",
         "aksoftware.localization.multilanguages.nuspec",
         "lib/netstandard2.0/AKSoftware.Localization.MultiLanguages.dll"
+      ]
+    },
+    "AKSoftware.Localization.MultiLanguages.Blazor/1.5.0": {
+      "sha512": "urh7zEGt5CRMqLuMnhZqdzltgXVHnFy6E7ynwuy1ybM5MyJ5xzGzYKNpNir3ea9MWf9jRSATonuZl3pt10izGw==",
+      "type": "package",
+      "path": "aksoftware.localization.multilanguages.blazor/1.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AkMultiLanguages.png",
+        "LICENSE",
+        "aksoftware.localization.multilanguages.blazor.1.5.0.nupkg.sha512",
+        "aksoftware.localization.multilanguages.blazor.nuspec",
+        "lib/net5.0/AKSoftware.Localization.MultiLanguages.Blazor.dll"
       ]
     },
     "Microsoft.AspNetCore.Authorization/6.0.11": {
@@ -2056,6 +2096,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AKSoftware.Localization.MultiLanguages >= 5.9.1",
+      "AKSoftware.Localization.MultiLanguages.Blazor >= 1.5.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.11",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.11"
     ]
@@ -2110,6 +2151,10 @@
           "AKSoftware.Localization.MultiLanguages": {
             "target": "Package",
             "version": "[5.9.1, )"
+          },
+          "AKSoftware.Localization.MultiLanguages.Blazor": {
+            "target": "Package",
+            "version": "[1.5.0, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",

@@ -1,0 +1,86 @@
+﻿@inject ILanguageContainerService languageContainer
+<!--==================== FOOTER ====================-->
+<footer class="footer section">
+    <div class="footer__container container grid">
+        <div class="footer__content">
+            <a href="#" class="footer__logo">
+                <img src="assets/img/logo.png" alt="" class="footer__logo-img">
+                @languageContainer.Keys["WelcomeMessage"]
+            </a>
+
+            <p class="footer__description"> @languageContainer.Keys["WelcomeMessage"] <br> of your life.</p>
+
+            <div class="footer__social">
+                <a href="https://www.facebook.com/" target="_blank" class="footer__social-link">
+                    <i class='bx bxl-facebook'></i>
+                </a>
+                <a href="https://www.instagram.com/" target="_blank" class="footer__social-link">
+                    <i class='bx bxl-instagram-alt'></i>
+                </a>
+                <a href="https://twitter.com/" target="_blank" class="footer__social-link">
+                    <i class='bx bxl-twitter'></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="footer__content">
+            <h3 class="footer__title"> @languageContainer.Keys["WelcomeMessage"]</h3>
+
+            <ul class="footer__links">
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer__content">
+            <h3 class="footer__title"> @languageContainer.Keys["WelcomeMessage"]</h3>
+
+            <ul class="footer__links">
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+                <li>
+                    <a href="#" class="footer__link">Discounts</a>
+                </li>
+                <li>
+                    <a href="#" class="footer__link">Shipping mode</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer__content">
+            <h3 class="footer__title"> @languageContainer.Keys["WelcomeMessage"]</h3>
+
+            <ul class="footer__links">
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+                <li>
+                    <a href="#" class="footer__link"> @languageContainer.Keys["WelcomeMessage"]</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <span class="footer__copy">copy rights</span>
+
+    @*<img src="assets/img/footer1-img.png" alt="" class="footer__img-one">
+    <img src="assets/img/footer2-img.png" alt="" class="footer__img-two">*@
+</footer>
+@code
+{
+    protected override async Task OnInitializedAsync()
+    {
+        languageContainer.InitLocalizedComponent(this);
+    }
+}
